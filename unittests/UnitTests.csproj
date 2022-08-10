@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\src\ConsoleApp.csproj" />
+    <ProjectReference Include="..\src\CompileWithAnalyzers.csproj" />
   </ItemGroup>
 
 </Project>
